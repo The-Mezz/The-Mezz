@@ -18,7 +18,10 @@
 - My experience with **weather projects**, mangas, or anime recommendations.
 
 ### 📫 How to Reach Me
-- mezzane.salah2001@gmail.com
+- 📧 mezzane.salah2001@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/salah-eddine-mezzane-65b45a248/)  
+- 📘 [Facebook](https://www.facebook.com/salaheddine.mezzane.7)  
+- 📸 [Instagram](https://www.instagram.com/salah_ed_mz1/)  
 
 ### ⚡ Fun Fact
 I enjoy combining my love for sports with my passion for technology, finding ways to innovate and grow in both fields!
