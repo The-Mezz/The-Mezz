@@ -5,6 +5,8 @@
 - 💻 Skilled in multiple programming languages:
   - **C, C++, HTML, CSS, PHP, SQL, PL/SQL, and JavaScript**.
 - 🌐 Currently working on **Weather ME**, a weather website project.
+- 🌍 Based in **Rabat**, Morocco.
+- 📚 I enjoy **reading mangas** and **watching animes**.
 
 ### 🌱 What I Love
 - ⚽ Playing and watching **football**.
@@ -13,7 +15,7 @@
 
 ### 💬 Ask Me About
 - Programming languages I've learned or any insights on web development.
-- My experience with **weather projects** or other tech-related topics.
+- My experience with **weather projects**, mangas, or anime recommendations.
 
 ### 📫 How to Reach Me
 - mezzane.salah2001@gmail.com
