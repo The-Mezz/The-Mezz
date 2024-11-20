@@ -4,7 +4,7 @@
 - 🎓 I'm a **third-year student** at the **Moroccan School of Engineering Sciences (EMSI)** pursuing a degree in **Computer Science Engineering**.
 - 💻 Skilled in multiple programming languages:
   - **C, C++, HTML, CSS, PHP, SQL, PL/SQL, and JavaScript**.
-- 🌐 Currently working on **The Mezz**, a weather website project.
+- 🌐 Currently working on **Weather ME**, a weather website project.
 
 ### 🌱 What I Love
 - ⚽ Playing and watching **football**.
