@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋, I'm Salah Eddine!
 
-<!--
-**The-Mezz/The-Mezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 I'm a **third-year student** at the **Moroccan School of Engineering Sciences (EMSI)** pursuing a degree in **Computer Science Engineering**.
+- 💻 Skilled in multiple programming languages:
+  - **C, C++, HTML, CSS, PHP, SQL, PL/SQL, and JavaScript**.
+- 🌐 Currently working on **The Mezz**, a weather website project.
 
-Here are some ideas to get you started:
+### 🌱 What I Love
+- ⚽ Playing and watching **football**.
+- 🏀 A big fan of the **NBA**.
+- 💡 Passionate about **developing and learning** all things tech!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Ask Me About
+- Programming languages I've learned or any insights on web development.
+- My experience with **weather projects** or other tech-related topics.
+
+### 📫 How to Reach Me
+- mezzane.salah2001@gmail.com
+
+### ⚡ Fun Fact
+I enjoy combining my love for sports with my passion for technology, finding ways to innovate and grow in both fields!
+
+---
